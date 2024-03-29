@@ -50,3 +50,27 @@ https://colab.research.google.com/drive/1V8g7oCyp1UxGWFdku9eMn44U1LkSuZdf?usp=sh
 # Note: Read GPU_project_Report.pdf for more information
 
 
+# N-body simulation in CPU for N = 100 and timesteps = 150
+
+![alt text](./gif%20animated%20images/anim_py.gif)
+
+# N-body simulation in CUDA for N = 100 and timesteps = 150
+
+![alt text](./gif%20animated%20images/anim_cu.gif)
+
+# Results
+Runtime Comparision
+
+![alt text](./Results%20or%20Graphs/Evaluate_7_iter.png)
+
+Runtime Comparision:
+The runtime were plotted for both nbody.py and nbody.cu files by varying the number of bodies in power of 2 and selecting the timestep as 150
+
+Figure below shows the runtime for N=10 (1024 bodies). We can observe that the paralleled GPU implementation required
+approximately 30 seconds and serialized CPU implementation required approximately 3000 seconds (50 minutes approx).
+
+
+![alt text](./Results%20or%20Graphs/Evaluate_10_iter.png)
+
+
+
