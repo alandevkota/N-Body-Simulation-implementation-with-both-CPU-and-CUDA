@@ -41,3 +41,8 @@ as a command line input illustrated in the example below:
 The below example is running the evaluation with iterations=7.
 
 
+The link to run directly from google colab is given below:
+
+https://colab.research.google.com/drive/1V8g7oCyp1UxGWFdku9eMn44U1LkSuZdf?usp=sharing
+
+
