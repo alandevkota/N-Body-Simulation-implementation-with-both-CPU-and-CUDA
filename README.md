@@ -49,12 +49,13 @@ https://colab.research.google.com/drive/1V8g7oCyp1UxGWFdku9eMn44U1LkSuZdf?usp=sh
 
 # Note: Read GPU_project_Report.pdf for more information
 
+# Simulation
 
-# N-body simulation in CPU for N = 100 and timesteps = 150
+N-body simulation in CPU for N = 100 and timesteps = 150
 
 ![alt text](./gif%20animated%20images/anim_py.gif)
 
-# N-body simulation in CUDA for N = 100 and timesteps = 150
+N-body simulation in CUDA for N = 100 and timesteps = 150
 
 ![alt text](./gif%20animated%20images/anim_cu.gif)
 
