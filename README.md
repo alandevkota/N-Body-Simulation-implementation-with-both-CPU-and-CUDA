@@ -1,4 +1,6 @@
-Steps to run the nbody simulation: First, the position of
+# Steps to run the nbody simulation: 
+
+First, the position of
 N particles is generated over a given number of timesteps and
 stored in an output text file for both CPU and GPU implementations.
 The nbody.py is the python CPU-based program that
@@ -38,10 +40,10 @@ as a command line input illustrated in the example below:
 
 *   python evaluate.py 7
 
-The below example is running the evaluation with iterations=7.
+The example in the code is running the evaluation with iterations=7.
 
 
-The link to run directly from google colab is given below:
+# Link to directly run in google colab:
 
 https://colab.research.google.com/drive/1V8g7oCyp1UxGWFdku9eMn44U1LkSuZdf?usp=sharing
 
