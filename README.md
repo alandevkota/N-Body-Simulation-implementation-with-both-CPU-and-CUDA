@@ -47,7 +47,9 @@ The example in the code is running the evaluation with iterations=7.
 
 https://colab.research.google.com/drive/1V8g7oCyp1UxGWFdku9eMn44U1LkSuZdf?usp=sharing
 
-# Note: Read GPU_project_Report.pdf for more information
+## Note: Read GPU_project_Report.pdf for more information
+
+[**Report:** _GPU_project_Report.pdf_](./GPU_project_Report.pdf)
 
 # Simulation
 
