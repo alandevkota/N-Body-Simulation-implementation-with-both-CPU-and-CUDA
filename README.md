@@ -49,7 +49,7 @@ https://colab.research.google.com/drive/1V8g7oCyp1UxGWFdku9eMn44U1LkSuZdf?usp=sh
 
 ## Note: Read GPU_project_Report.pdf for more information
 
-[**Report:** _GPU_project_Report.pdf_](./GPU_project_Report.pdf)
+[**Click here to view Report:** _GPU_project_Report.pdf_](./GPU_project_Report.pdf)
 
 # Simulation
 
